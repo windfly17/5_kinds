@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Main Dataset</folder>
+	<filename>20020515-200.bmp</filename>
+	<path>D:\Desktop\Graduation_design\windows_v1.8.1\Main Dataset\20020515-200.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>252</ymin>
+			<xmax>281</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>99</ymin>
+			<xmax>296</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>493</ymin>
+			<xmax>256</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

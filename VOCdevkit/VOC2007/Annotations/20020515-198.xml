@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Main Dataset</folder>
+	<filename>20020515-198.bmp</filename>
+	<path>D:\Desktop\Graduation_design\windows_v1.8.1\Main Dataset\20020515-198.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lymp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>167</ymin>
+			<xmax>365</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>201</ymin>
+			<xmax>399</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>279</ymin>
+			<xmax>312</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

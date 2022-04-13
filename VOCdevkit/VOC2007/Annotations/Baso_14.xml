@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Main Dataset</folder>
+	<filename>Baso_14.jpg</filename>
+	<path>D:\Desktop\Graduation_design\windows_v1.8.1\Main Dataset\Baso_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>301</ymin>
+			<xmax>647</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

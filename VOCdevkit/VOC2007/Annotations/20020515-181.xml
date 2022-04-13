@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Main Dataset</folder>
+	<filename>20020515-181.bmp</filename>
+	<path>D:\Desktop\Graduation_design\windows_v1.8.1\Main Dataset\20020515-181.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>249</ymin>
+			<xmax>200</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>
