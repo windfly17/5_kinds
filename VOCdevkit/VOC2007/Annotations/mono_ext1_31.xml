@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Main Dataset</folder>
+	<filename>mono_ext1_31.jpg</filename>
+	<path>D:\Desktop\Graduation_design\windows_v1.8.1\Main Dataset\mono_ext1_31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mono</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>4</ymin>
+			<xmax>237</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
